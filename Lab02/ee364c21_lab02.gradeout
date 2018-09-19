@@ -1,0 +1,21 @@
+------------------------------------------------------------------------
+UsageStats (80 pts)
+------------------------------------------------------------------------
+1) Wrong number of Arguments (5 pts)                          Passed
+2) Invalid file name (5 pts)                                  Passed
+3) Total number of acive user IDs (10 pts)                    Passed
+4) Username whose process has the highest CPU usage (15 pts)  Passed
+5) Top three processes with the longest runtimes (20 pts)     Passed
+6) Logfile for all processes  by that username (20 pts)       Passed
+7) Exit (5 pts)                                               Passed
+
+Total Score for UsageStats: 80/80
+------------------------------------------------------------------------
+Functions (20 pts)
+------------------------------------------------------------------------
+1) Sorting (10 pts)                                           Passed
+2) I/O Redirection (10 pts)                                   Passed
+
+Total Score for Functions: 20/20
+
+Final Score: 100/100

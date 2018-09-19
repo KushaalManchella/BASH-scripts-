@@ -1,0 +1,23 @@
+------------------------------------------------------------------------
+Sorting (50 pts)
+------------------------------------------------------------------------
+1) Incorrect number of Arguments (5 pts) Passed
+2) First argument is a non-existent file (5 pts) Passed
+3) 5 fastest performing CPUs (5 pts) Passed
+4) 3 most efficient CPUs (5 pts) Passed
+5) CPUs that have a cache size of 4 (10 pts) Passed
+6) n slowest CPUs (10 pts) Passed
+7) Print to a file called sorted_CPI.txt (10 pts) Passed
+
+Total Score for Sorting: 50/50
+
+------------------------------------------------------------------------
+I/O Redirection (50 pts)
+------------------------------------------------------------------------
+
+1) Compiling (25 pts) Passed
+2) Redirecting output to file (25 pts) Passed
+
+Total Score for I/O redirection: 50/50
+
+Final Score: 100/100

@@ -1,0 +1,19 @@
+------------------------------------------------------------------------
+Experiments (50 pts)
+------------------------------------------------------------------------
+1) Incorrect number of Arguments (5 pts)                      Passed
+2) Sum (20 pts)                                               Passed
+3) Average (20 pts)                                           Passed
+4) File Readable (5 pts)                                      Passed
+
+Total Score for Experiment: 50/50
+------------------------------------------------------------------------
+Kaprekar (50 pts)
+------------------------------------------------------------------------
+1) Incorrect number of Arguments (5 pts)                      Failed
+ Your return code is 0
+2) kaprekar (45 pts)                                          Passed
+
+Total Score for Kaprekar: 45/50
+
+Final Score: 95/100
